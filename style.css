@@ -126,3 +126,14 @@ body {
     color: #fcba7f;
 }
 
+.social-links img{
+    height: 13px;
+    margin: 20px;
+    cursor: pointer;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+.social-links {
+    text-align: center;
+}
